@@ -1,0 +1,7 @@
+<!-- strings.xml -->
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="swap_button_text">↔</string>
+    <string name="result_textview_hint">Kết quả chuyển đổi</string>
+    <string name="enter_amount">Nhập số tiền</string>
+</resources>
