@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tạo Form Nhập Thông Tin</string>
+
+    <string-array name="tinh_array">
+        <item>Hà Nội</item>
+        <item>TP. Hồ Chí Minh</item>
+        <item>Đà Nẵng</item>
+        <item>Huế</item>
+        <item>Quảng Ninh</item>
+    </string-array>
+</resources>
