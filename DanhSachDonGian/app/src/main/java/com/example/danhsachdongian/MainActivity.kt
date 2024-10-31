@@ -32,8 +32,7 @@ class MainActivity : AppCompatActivity() {
 
             val n = numberText.toIntOrNull()
             if (n == null || n < 0) {
-                textViewError.text = "Vui lòng nhập số nguyên dương."
-                textViewError.visibility = View.VISIBLE
+                textViewError.text = "Vui lòng nhập số nguyên dương.textViewError.visibility = View.VISIBLE
                 listView.adapter = null
                 return@setOnClickListener
             }
